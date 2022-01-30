@@ -1,0 +1,35 @@
+### Get person
+GET https://61bd37f2d8542f0017824b7a.mockapi.io/person
+
+### Add Person
+POST  https://61bd37f2d8542f0017824b7a.mockapi.io/person
+Accept: application/json
+Content-Type: application/json
+
+{
+    "name": "Mehrubon"
+}
+
+### Add Person
+PUT https://61bd37f2d8542f0017824b7a.mockapi.io/person/11
+Accept: application/json
+Content-Type: application/json  
+
+{
+    "name": "Mehrubon Turaev"
+}
+
+### Add Person
+DELETE https://61bd37f2d8542f0017824b7a.mockapi.io/person/10
+
+### Get Person
+GET https://61bd37f2d8542f0017824b7a.mockapi.io/person/1
+
+### Add Person
+POST  https://61bd37f2d8542f0017824b7a.mockapi.io/person
+Accept: application/json
+Content-Type: application/json
+
+{
+    "name": "Najmiddin"
+}
